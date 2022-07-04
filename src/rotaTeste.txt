@@ -1,1 +1,4 @@
+comando para rodar aplicação: npm run start:dev 
+
+Rota da Aplicação
 http://localhost:3000/location/nome da localidade

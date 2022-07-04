@@ -1,6 +1,6 @@
 1.Quanto tempo você usou para completar a solução apresentada? O que você faria se tivesse mais tempo?
 
-Bom, foi me dado 2 dias e meio para realizar o desafio, contando com o tempo lendo documentação levei 1 dia para finalizar tudo e acertar detalhes, se tivesse mais tempo aplicaria os princípios de arquitetura de SOLID e adicionaria testes unitários.
+Bom, foi me dado 2 dias e meio para realizar o teste, contando com o tempo lendo documentação levei 1 dia para finalizar tudo e acertar detalhes, se tivesse mais tempo aplicaria uma arquitetura como SOLID e adicionaria testes unitários.
 
 2.Se usou algum framework, qual foi o motivo de ter usado este? Caso contrário, por que não utilizou nenhum?
 

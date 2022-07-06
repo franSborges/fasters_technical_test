@@ -21,8 +21,6 @@ export class WeatherProvider {
     const { temp, feels_like } = response.data.main;
     const { name, weather: [{description}] } = response.data;
 
-    console.log(response)
-
     const dataTemperature = {
       Location: `${name}`,
       Temperature: `${Math.round(temp)}c - (${description})`,
